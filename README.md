@@ -1,5 +1,5 @@
 # deep-learning
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbxyz/deep-learning/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jnooo-cloud/Deep-Learning/HEAD)
 
 This project uses a deep neural network built with TensorFlow to classify whether a banknote is authentic or not based on a dataset from the UCI Machine Learning Repository. The dataset contains five columns: variance, skewness, curtosis, entropy (all continuous features extracted from wavelet-transformed images), and a class label indicating authenticity (1 for authentic, 0 for not).
 The goal of this project is to explore the efficiency of deep learning models, specifically deep neural networks, in handling classification tasks on structured data. The model is trained on the numerical features to predict the binary class outcome. This serves as a practical example of how neural networks can be applied to real-world tabular datasets.
