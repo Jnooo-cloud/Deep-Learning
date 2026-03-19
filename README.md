@@ -1,7 +1,6 @@
 # Deep Learning
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jnooo-cloud/Deep-Learning/main?labpath=5-Tensorflow_Projekt_new.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jnooo-cloud/Deep-Learning/blob/main/5-Tensorflow_Projekt_new.ipynb)
 
 Dieses Repository reproduziert die Kursaufgabe "Deep Learning" aus dem Udemy-Kurs "Python fuer Data Science, Machine Learning & Visualization".
 
@@ -13,7 +12,7 @@ Dieses Repository reproduziert die Kursaufgabe "Deep Learning" aus dem Udemy-Kur
 
 ## Ausfuehrung
 
-1. Klicke auf den Binder- oder Colab-Badge.
+1. Klicke auf den Binder-Badge.
 2. Oeffne das Notebook `5-Tensorflow_Projekt_new.ipynb`, falls es nicht direkt geoeffnet wird.
 3. Fuehre alle Zellen in der vorgegebenen Reihenfolge aus.
 
